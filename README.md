@@ -1,20 +1,20 @@
 # baerini.github.io
 
-##Introduction
+## Introduction
 hello my name is bae-gyeongyeob. I'm backend developer.
 
-##Skills
+## Skills
  - Python
  - Kotlin
  - C
 
-##Education
+## Education
  - Sungkyunkwan university junior
 
-##Achievements
+## Achievements
  - I develop several android applications by Kotlin.
  - I like algorithm problem-solving.
 
-##Contact
+## Contact
  - mail : rudduqlek@naver.com
- - github : <baerini.github.com>
+ - github : baerini.github.com
